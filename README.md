@@ -17,6 +17,11 @@
 	<li>MySQL 5.7 or higher</li>
 </ul>
 
+<h2>Working Explanation in videos, watch it out</h2>
+<video width="560" height="315" controls>
+		<source src="https://www.youtube.com/watch?v=-jGGaTpWYAU" type="video/mp4">
+		Your browser does not support the video tag.
+	</video>
 <h2>Installation</h2>
 <ol>
 	<li>Download or clone the project repository to your local machine.</li>
